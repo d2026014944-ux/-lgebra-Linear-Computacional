@@ -1,4 +1,4 @@
-# -lgebra-Linear-Computacional
+# Algebra-Linear-Computacional
 Pesquisa: Simulação Quântica de Inibidores NDM-1 (Superbactérias) via Ansatz Borromeano e Médias Metálicas (UNIFEI)
 
 ## Estrutura das aulas (v1)
